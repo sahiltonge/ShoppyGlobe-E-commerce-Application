@@ -5,6 +5,7 @@
 ShoppyGlobe is a basic yet fully functional e-commerce web application built with React.  
 It allows users to browse products fetched from a public API, view detailed product information, add/remove items from the cart, and manage cart quantities. The app features a search functionality, Redux for state management, React Router for navigation, and optimized lazy loading for performance.
 
+LIVE LINK : https://shoppyglobe-alpha.vercel.app/
 ---
 
 ## Features
